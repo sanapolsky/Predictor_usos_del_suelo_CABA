@@ -1,9 +1,10 @@
 # Predictor_usos_del_suelo_CABA
-Predictor de usos del suelo a través de las fotos de parcelas del mapa interactivo y datos del relevamiento de usos del suelo
+Predictor de usos del suelo a través de las fotos de parcelas del mapa interactivo y datos del relevamiento de usos del suelo.
+Proyecto creado en el marco del programa de Inteligencia Artificial de Digital House.
 
 Proyecto2-IA-DigitalHouse-Grupo2
 
-Proyecto creado en el marco del programa de Inteligencia Artificial de Digital House.
+
 
 El trabajo está dividido en 2 partes:
 
