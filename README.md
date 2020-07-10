@@ -17,3 +17,4 @@ Construir un predictor de edificación y usos del suelo con las fotos del mapa i
 
 
 Integrantes : Abeijon Alejandro | Alcoleas Noelia P. | Anapolsky Sebastián | Rivadeneiria Maximiliano
+Mayo 2020
